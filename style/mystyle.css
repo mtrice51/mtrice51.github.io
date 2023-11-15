@@ -1,7 +1,11 @@
-body{
-    font-family: 'IBM Plex Sans', sans-serif;
-    background-color: #E6CFCA;
-}
 .title{
-    font-family: 'Sanchez', serif;
+    font-family: 'Arvo', serif;
+}
+body{
+    font-family: 'Catamaran', sans-serif;
+}
+.top{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 0px;
 }
