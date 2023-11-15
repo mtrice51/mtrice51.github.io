@@ -2,10 +2,15 @@
     font-family: 'Arvo', serif;
 }
 body{
+    font-family: 'IBM Plex Sans', sans-serif;
     font-family: 'Catamaran', sans-serif;
 }
 .top{
     padding-top: 10px;
     padding-bottom: 20px;
     padding-left: 0px;
+}
+.image{
+    width: 180px;
+    height: 200px;
 }
